@@ -1,0 +1,57 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 15px;
+    font-family: arial;
+    line-height: 25px;
+}
+main{
+    background: #ddd;
+    width: 800px;
+    margin: auto;
+}
+.head{
+    background: #3b5998;
+    color: white;
+    overflow: hidden;
+    padding: 5px 3px;
+}
+.head h3{
+    float: left;
+}
+.head a{
+    float: right;
+    color:white;
+    background: black;
+    text-decoration: none;
+    padding: 0 5px;
+}
+.box{
+margin: 15px;
+line-height: 30px;
+}
+.box strong{
+    font-size: 14px;
+}
+.box input{
+    padding: 3px;
+    width: 100%;
+
+    color: white;
+    
+}
+
+
+    .siraj{
+        margin-top: 15px;
+        background: #3b5998;
+        color:black;
+       
+    }
+.siraj:hover{
+    background:#3b5850;
+    cursor: pointer;
+}
